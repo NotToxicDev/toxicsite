@@ -37,7 +37,7 @@ a:hover {
   display: flex;
   flex-direction: column;
 }
-
+/* Gradient Title */
 .title {
   background: linear-gradient(90deg, rgba(0, 242, 96, 1), rgba(7, 235, 228, 1));
   background-size: 80%;
@@ -46,7 +46,7 @@ a:hover {
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
-
+/* Main context */
 .context {
   width: 100%;
   position: absolute;
@@ -57,7 +57,7 @@ a:hover {
 
 h1 {
   text-align: center;
-  color: #fff;
+  color: transparent;
   font-size: 80px;
   font-weight: 400;
 }
